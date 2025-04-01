@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [automating the E-Commerce Automation Exercise platform. Using selenium with pytest framework.](https://automationexercise.com)
 
-- 🌱 I’m currently learning **Python , Selenium , Pytest**
+- 🌱 I’m currently learning **Python , Selenium , Playwright , Pytest**
 
 - 👨‍💻 All of my projects are available at [https://github.com/brbhavesh63/AutomationExceriseApp.git](https://github.com/brbhavesh63/AutomationExceriseApp.git)
 
